@@ -13,7 +13,7 @@ Welcome to the **Team 15** project repository.
 
 ## Project
 
-This repository contains the source code, documents, and materials developed by Team 15.
+Team 15 - Remote version
 
 ## Team Goal
 
