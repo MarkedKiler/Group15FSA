@@ -12,7 +12,7 @@
 
 This repository is used by Group 15 to practice Git and GitHub operations.
 
-**Repository Link:** [GitHub Repository Link]
+**Repository Link:** 
 
 ## Requirements
 
