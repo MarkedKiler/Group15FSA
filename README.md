@@ -1,6 +1,6 @@
 # Group15FSA
 # Team 15
-Team 15 - Bang version
+Team 15 - Bang
 
 ## Team Members
 
