@@ -12,7 +12,7 @@ Team 15 - Bang version
 
 ## Project
 
-This repository contains the source code, documents, and materials developed by Team 15.
+Team 15 - Remote version
 
 ## Team Goal
 
