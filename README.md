@@ -1,7 +1,6 @@
 # Group15FSA
 # Team 15
-
-Welcome to the **Team 15** project repository.
+Team 15 - Bang version
 
 ## Team Members
 
